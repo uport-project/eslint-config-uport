@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-uport",
+  "version": "0.0.1",
+  "description": "code style configs for uport projects",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "author": "Mike Xu <mike.xu@consensys.net>",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "babel-eslint": ">=10",
+    "eslint": ">=5",
+    "eslint-config-prettier": ">=3",
+    "eslint-config-standard": ">=12",
+    "eslint-plugin-prettier": ">=3",
+    "prettier": ">=1"
+  },
+  "devDependencies": {}
+}
